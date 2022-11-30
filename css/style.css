@@ -1,0 +1,40 @@
+
+
+.parent5,.parent6{
+    height: 380px;
+    width: 100%;
+    position: relative;
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: 0;
+}
+
+/* =================== */
+
+.parent6{
+
+    background-image: url(../images/4.jpg);
+
+}
+
+/* =================== */
+
+.parent5{
+
+    background-image: url(../images/3.jpg);
+
+}
+
+/* =================== */
+.contener5{
+    margin: 50px auto;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color:rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+
+/* =================== */
